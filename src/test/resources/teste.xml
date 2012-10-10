@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tv generator-info-name="Revista Eletronica - Unidade Lorenz Ltda" generator-info-url="http://xmltv.revistaeletronica.com.br">
+	<provider>NET - São Paulo</provider>
+	<channel id="121">
+		<display-name lang="pt">Premiere FC 24h</display-name>
+		<display-number>1</display-number>
+		<icon src="121.png" />
+	</channel>
+	<channel id="122">
+		<display-name lang="pt">PFC +</display-name>
+		<display-number>1</display-number>
+		<icon src="122.png" />
+	</channel>
+	<channel id="MPX">
+		<display-name lang="pt">MPX</display-name>
+		<display-number>1</display-number>
+		<icon src="122.png" />
+	</channel>
+	<programme start="20120510002000 -0300" stop="20120510021000 -0300" channel="121" program_id="0000011068">
+		<title lang="pt">VT - Fluminense x Botafogo</title>
+		<title lang="en">VT - Fluminense x Botafogo</title>
+		<desc> - www.revistaeletronica.com.br </desc>
+		<category lang="pt">Esporte</category>
+		<category lang="pt">Futebol</category>
+		<country>Brasil</country>
+		<video>
+			<colour>yes</colour>
+		</video>
+		<rating system="Advisory">
+			<value>Programa livre para todas as idades</value>
+		</rating>
+	</programme>
+	<programme start="20120510021000 -0300" stop="20120510040000 -0300" channel="121" program_id="0000017724">
+		<title lang="pt">VT - Guarani x Santos</title>
+		<title lang="en">VT - Guarani x Santos</title>
+		<desc> - www.revistaeletronica.com.br </desc>
+		<category lang="pt">Esporte</category>
+		<category lang="pt">Futebol</category>
+		<country>Brasil</country>
+		<video>
+			<colour>yes</colour>
+		</video>
+		<rating system="Advisory">
+			<value>Programa livre para todas as idades</value>
+		</rating>
+	</programme>
+	<programme start="20120510040000 -0300" stop="20120510043000 -0300" channel="121" program_id="0000280815">
+		<title lang="pt">Sócio Pergunta: 102 - Arturzinho, Carlinhos e Anderson</title>
+		<desc>O ex-jogador Marquinho Carioca, o lateral Carlinhos e o zagueiro Anderson, do Fluminense, respondem perguntas enviadas pelos sócios. - www.revistaeletronica.com.br </desc>
+		<category lang="pt">Esporte</category>
+		<category lang="pt">Futebol</category>
+		<video>
+			<colour>yes</colour>
+		</video>
+		<rating system="Advisory">
+			<value>Programa livre para todas as idades</value>
+		</rating>
+	</programme>
+	<programme start="20120510043000 -0300" stop="20120510062000 -0300" channel="121" program_id="0000101070">
+		<title lang="pt">VT - Caxias x Internacional</title>
+		<title lang="en">VT - Caxias x Internacional</title>
+		<desc> - www.revistaeletronica.com.br </desc>
+		<category lang="pt">Esporte</category>
+		<category lang="pt">Futebol</category>
+		<country>Brasil</country>
+		<video>
+			<colour>yes</colour>
+		</video>
+		<rating system="Advisory">
+			<value>Programa livre para todas as idades</value>
+		</rating>
+	</programme>
+	<programme start="20120511160000 -0300" stop="20120511180000 -0300" channel="MPX" program_id="0000240784">
+		<title lang="pt">A Epidemia</title>
+		<title lang="en">The Crazies</title>
+		<desc>Após a água de uma pequena cidade ser contaminada, os moradores começam a demonstrar comportamentos estranhos e violentos, tornando-se frios assassinos. - www.revistaeletronica.com.br </desc>
+		<credits>
+			<director>Breck Eisner</director>
+			<actor>Timothy Olyphant</actor>
+			<actor>Joe Anderson</actor>
+			<actor>Radha Mitchell</actor>
+			<actor>Danielle Panabaker</actor>
+			<actor>Christie Lynn Smith</actor>
+			<actor>Brett Rickaby</actor>
+			<actor>Glenn Morshower</actor>
+		</credits>
+		<date>2010</date>
+		<category lang="pt">Filme</category>
+		<category lang="pt">Terror</category>
+		<country>EUA/União dos Emirados Árabes</country>
+		<video>
+			<colour>yes</colour>
+		</video>
+		<rating system="Advisory">
+			<value>Programa impróprio para menores de 14 anos</value>
+		</rating>
+		<star-rating>
+			<value>3/5</value>
+		</star-rating>
+	</programme>
+	<programme start="20120511180000 -0300" stop="20120511195000 -0300" channel="MPX" program_id="0000063093">
+		<title lang="pt">O Escorpião Rei</title>
+		<title lang="en">The Scorpion King</title>
+		<desc>Há cerca de 5.000 anos, a força do Mal tenta exterminar a população nômade do deserto do Egito, mas o guerreiro Mathayus lutará contra isso. - www.revistaeletronica.com.br </desc>
+		<credits>
+			<director>Chuck Russell</director>
+			<actor>The Rock</actor>
+			<actor>Steven Brand</actor>
+			<actor>Kelly Hu</actor>
+			<actor>Michael Clarke Duncan</actor>
+			<actor>Grant Heslov</actor>
+			<actor>Peter Facinelli</actor>
+			<actor>Kelly Hu</actor>
+			<actor>Bernard Hill</actor>
+			<actor>Ralf Moeller</actor>
+			<actor>Branscombe Richmond</actor>
+			<actor>Sherri Howard</actor>
+		</credits>
+		<date>2002</date>
+		<category lang="pt">Filme</category>
+		<category lang="pt">Aventura</category>
+		<country>EUA</country>
+		<video>
+			<colour>yes</colour>
+		</video>
+		<rating system="Advisory">
+			<value>Programa impróprio para menores de 14 anos</value>
+		</rating>
+		<star-rating>
+			<value>3/5</value>
+		</star-rating>
+	</programme>
+	<programme start="20120511195000 -0300" stop="20120511220000 -0300" channel="MPX" program_id="0000213024">
+		<title lang="pt">Código de Conduta</title>
+		<title lang="en">Law Abiding Citizen</title>
+		<desc>Clyde testemunha sua esposa e filha serem assassinadas. Um dos culpados ganha liberdade. Anos depois o assassino é morto e Clyde é preso mesmo sem provas contra ele. Seu único objetivo é denunciar o corrupto sistema judicial. - www.revistaeletronica.com.br </desc>
+		<credits>
+			<director>F. Gary Gray</director>
+			<actor>Gerard Butler</actor>
+			<actor>Jamie Foxx</actor>
+			<actor>Leslie Bibb</actor>
+			<actor>Colm Meaney</actor>
+			<actor>Bruce McGill</actor>
+			<actor>Gregory Itzin</actor>
+			<actor>Emerald-Angel Young</actor>
+		</credits>
+		<date>2010</date>
+		<category lang="pt">Filme</category>
+		<category lang="pt">Ação</category>
+		<country>EUA</country>
+		<video>
+			<colour>yes</colour>
+		</video>
+		<rating system="Advisory">
+			<value>Programa impróprio para menores de 16 anos</value>
+		</rating>
+		<star-rating>
+			<value>4/5</value>
+		</star-rating>
+	</programme>
+	<programme start="20120511220000 -0300" stop="20120511235000 -0300" channel="MPX" program_id="0000256119">
+		<title lang="pt">Assassino a Preço Fixo</title>
+		<title lang="en">The Mechanic</title>
+		<desc>Arther é um assassino profissional de elite, com regras simples e restritas para cumprir seu trabalho. Mas quando seu mentor e amigo, Harry, é assassinado ele vai passar por cima de tudo e de todos para conseguir vingança. - www.revistaeletronica.com.br </desc>
+		<credits>
+			<director>Simon West</director>
+			<actor>Jason Statham</actor>
+			<actor>Ben Foster</actor>
+			<actor>Donald Sutherland</actor>
+			<actor>Jeff Chase</actor>
+			<actor>Mini Anden</actor>
+			<actor>Christa Campbell</actor>
+		</credits>
+		<date>2010</date>
+		<category lang="pt">Filme</category>
+		<category lang="pt">Ação</category>
+		<country>EUA</country>
+		<video>
+			<colour>yes</colour>
+		</video>
+		<rating system="Advisory">
+			<value>Programa impróprio para menores de 16 anos</value>
+		</rating>
+		<star-rating>
+			<value>3/5</value>
+		</star-rating>
+	</programme>
+</tv>
